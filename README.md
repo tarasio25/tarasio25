@@ -43,6 +43,9 @@ Looking forward to your contact!<br><br>
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white"/>
 
 </br>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=OracleDB&logoColor=white"/>
+
+</br>
 <!-- 툴 --!>
 </br>
 <b>🛠️ Tools 🛠️<b></br>
