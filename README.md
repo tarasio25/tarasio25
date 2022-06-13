@@ -40,10 +40,14 @@ Looking forward to your contact!<br><br>
 
 </br>
 <!--DB & 협업툴 --!>
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 </br>
+<!-- 잡 기술 --!>
 <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 
 </br>
 <!-- 툴 --!>
