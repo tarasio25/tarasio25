@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=30DE65&height=280&section=header&text=JongWon%20Yi&fontSize=80&animation=twinkling&fontAlignY=45" />    
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaehyuenwoo&count_bg=%230EB8E3&title_bg=%230234D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftarasio25%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
+
 
 ### Hello, I'm JongWon Yi!! 
 <b>`Backend-Developer`<b><br><br>
