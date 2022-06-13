@@ -53,8 +53,8 @@ Looking forward to your contact!<br><br>
 </div>
 
 </br>
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuenwoo&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" align="left" style="width: 100%" />
+<table><tr><td valign="top" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarasio25&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" align="left" style="width: 25%" />
 
 </td></tr></table>  
 
