@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=30DE65&height=280&section=header&text=안녕하세요,. 이종원입니다:)&fontSize=80&animation=twinkling&fontAlignY=45" />    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30DE65&height=280&section=header&text=welcome~&fontSize=80&animation=twinkling&fontAlignY=45" />    
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftarasio25%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
