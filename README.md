@@ -6,7 +6,7 @@
 </br>
 
 
-### Hello, I'm JongWon Yi!! 
+### 안녕하세요~
 <b>`Backend-Developer`<b><br><br>
 <!--
 I'm interested in `Web`, `cloud`, `techs`<br><br>
