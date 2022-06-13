@@ -6,7 +6,7 @@
 </br>
 
 ### Hello, I'm JongWon Yi!! 
-I am dreaming of a new experience as a <b>`Backend-Developer`<b><br><br>
+<b>`Backend-Developer`<b><br><br>
 <!--
 I'm interested in `Web`, `cloud`, `techs`<br><br>
 Looking forward to your contact!<br><br>
